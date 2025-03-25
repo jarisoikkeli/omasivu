@@ -26,7 +26,7 @@ body {
 header {
   padding: 2rem 1rem;
   text-align: center;
-  border-bottom: 2px dashed #333;
+  
 }
 
 .logo {
@@ -37,10 +37,11 @@ header {
 
 /* Sisältöalue */
 .content {
-  max-width: 900px;
+  max-width: 840px;
   margin: 0 auto;
   width: 100%;
   padding: 1rem;
+  border-top: 2px dashed #333;
 }
 
 /* Otsikot */
